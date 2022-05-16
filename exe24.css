@@ -1,0 +1,20 @@
+body{
+  background-color:#f5f5f5;
+  font-size:14px; 
+  line-height:20px;
+  color: #333333; 
+  margin: 0;
+}
+
+.font1{
+   font-family: 'Bebas Neue',cursive;
+}
+.font2{
+   font-family: 'Macondo',cursive;
+}
+.font3{
+   font-family: 'Rock Salt',cursive;
+}
+.font4{
+   font-family: 'Shadows Into Light',cursive;
+}
